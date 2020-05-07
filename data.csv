@@ -1,5 +1,5 @@
 Picture,Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-1,"Analisi del traffico acqueo delle merci nel centro storico di Venezia, in vista di un nuovo piano urbano della mobilità sostenibile.","Venezia",45.496.333,12.244.184,"San Marco",Exact,US Census
+image\ciao.png,"Analisi del traffico acqueo delle merci nel centro storico di Venezia, in vista di un nuovo piano urbano della mobilità sostenibile.","Venezia",45.496.333,12.244.184,"San Marco",Exact,US Census
 2,Stato della pianificazione dell'accessibilità nella regione Veneto,"Veneto",45.435101,12.326998,"Napoli",Exact,US Census
 3,Accessibilità urbana della ciclovia Vento (Venezia-Torino),"Emilia Romagna",44.508642,11.363518,"Roma",Exact,US Census
 4,Analisi dell'integrazione metropoliatana dei piani e progetti di trasformazione nella città metropolitana di Napoli,"Napoli",40.840421,14.250438,"Roma",Exact,US Census
