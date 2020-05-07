@@ -34,7 +34,7 @@
   /* Set up the map with initial center and zoom level */
   var map = L.map('map', {
     center: [46.780550, 9.063018], // EDIT latitude, longitude to re-center map  41.77, -72.69
-    zoom: 19,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+    zoom: 18,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: true
   });
 
@@ -42,7 +42,7 @@
   var controlLayers = L.control.layers( null, null, {
   position: "topright",
   collapsed: false
-  }).addTo(map);
+  });//*.addTo(map)
 
   /* Carto light-gray basemap tiles with labels */
   var light = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
