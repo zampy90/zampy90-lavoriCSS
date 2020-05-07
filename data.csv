@@ -1,22 +1,22 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-"Analisi del traffico acqueo delle merci nel centro storico di Venezia, in vista di un nuovo piano urbano della mobilità sostenibile.","Venezia",45.496.333,12.244.184,"San Marco",Exact,US Census
-Stato della pianificazione dell'accessibilità nella regione Veneto,"Veneto",45.435101,12.326998,"Napoli",Exact,US Census
-Accessibilità urbana della ciclovia Vento (Venezia-Torino),"Emilia Romagna",44.508642,11.363518,"Roma",Exact,US Census
-Analisi dell'integrazione metropoliatana dei piani e progetti di trasformazione nella città metropolitana di Napoli,"Napoli",40.840421,14.250438,"Roma",Exact,US Census
-Analisi degli impatti sul territorio della mobilità turistica,"Girona",41.981396,2.821585,"Roma",Exact,US Census
-Studio delle dinamiche contemporanee della pianificazione della mobilità,"Venezia",45.441760,12.329834,"Roma",Exact,US Census
-Pianificazione dell'accessibilità urbana del quartiere Hoge Vucht,"Breda",51.598250,4.773946,"Roma",Exact,US Census
-"Ciclabilità urbana - workshop ROMACICLABILE – Sulla strada olandese","Roma",41.893455,12.482802,"Roma",Exact,US Census
-"Conferenza de menselijk stad - organizzazione workshop Living the Movement. Stazioni: da spazi di transito a luoghi di condivisione","Amsterdam",52.384490,4.900902,"Roma",Exact,US Census
-"Urbanpromo: workshop Smart city: nuove esigenze e nuove tecnologie produttrici di valore","Venezia",45.438304,12.325686,"Roma",Exact,US Census
-"Workshop living the movement. Stazioni: da spazi di transito a luoghi di condivisione","Venezia",45.432438,12.315072,"Roma",Exact,US Census
-"Workshop sulle aree interne-rurali","Cilento",40.681992,14.769135,"Roma",Exact,US Census
-"Workshop sulle aree interne-rurali","Bruxelles",50.843078,4.362510,"Roma",Exact,US Census
-Workshop convegno Ultimo miglio sostenibile Milano Bike Festival,"Milano",45.507104,9.211756,"Roma",Exact,US Census
-Incontro sulla mobilità ciclistica e pedonale nell’area fiorentina,"Firenze",43.769834,11.255607,"Roma",Exact,US Census
-Workshop di confronto sulla ciclabilità in Italia e in Olanda con rappresentati di alcune città italiane,"Amsterdam",52.377541,4.908123,"Roma",Exact,US Census
-"Analisi di geomarketing - ricerca sull'utilizzo e l'implementazione dei sistemi di mappatura","Venezia",45.434617,12.340423,"Roma",Exact,US Census
-"Workshop Bike (Friday) for Future - Napoli Bike Festival","Napoli",40.852520,14.250360,"Roma",Exact,US Census
-"Ricerca su nuovi strumenti per l'accessibilità pedonale e ciclabile (ba.bi.plan)","Venezia",45.487587,12.234246,"Roma",Exact,US Census
-"Consulenza PUC - Piano urbanistico comunale","Torre del Greco (NA)",40.786836,14.365700,"Roma",Exact,US Census
-"Consulenza VAS - valutazione ambientale strategica","Palomonte (SA)",40.660331,15.291832,"Roma",Exact,US Census
+Picture,Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+1,"Analisi del traffico acqueo delle merci nel centro storico di Venezia, in vista di un nuovo piano urbano della mobilità sostenibile.","Venezia",45.496.333,12.244.184,"San Marco",Exact,US Census
+2,Stato della pianificazione dell'accessibilità nella regione Veneto,"Veneto",45.435101,12.326998,"Napoli",Exact,US Census
+3,Accessibilità urbana della ciclovia Vento (Venezia-Torino),"Emilia Romagna",44.508642,11.363518,"Roma",Exact,US Census
+4,Analisi dell'integrazione metropoliatana dei piani e progetti di trasformazione nella città metropolitana di Napoli,"Napoli",40.840421,14.250438,"Roma",Exact,US Census
+5,Analisi degli impatti sul territorio della mobilità turistica,"Girona",41.981396,2.821585,"Roma",Exact,US Census
+6,Studio delle dinamiche contemporanee della pianificazione della mobilità,"Venezia",45.441760,12.329834,"Roma",Exact,US Census
+7,Pianificazione dell'accessibilità urbana del quartiere Hoge Vucht,"Breda",51.598250,4.773946,"Roma",Exact,US Census
+8,"Ciclabilità urbana - workshop ROMACICLABILE – Sulla strada olandese","Roma",41.893455,12.482802,"Roma",Exact,US Census
+9,"Conferenza de menselijk stad - organizzazione workshop Living the Movement. Stazioni: da spazi di transito a luoghi di condivisione","Amsterdam",52.384490,4.900902,"Roma",Exact,US Census
+10,"Urbanpromo: workshop Smart city: nuove esigenze e nuove tecnologie produttrici di valore","Venezia",45.438304,12.325686,"Roma",Exact,US Census
+11,"Workshop living the movement. Stazioni: da spazi di transito a luoghi di condivisione","Venezia",45.432438,12.315072,"Roma",Exact,US Census
+12,"Workshop sulle aree interne-rurali","Cilento",40.681992,14.769135,"Roma",Exact,US Census
+13,"Workshop sulle aree interne-rurali","Bruxelles",50.843078,4.362510,"Roma",Exact,US Census
+14,Workshop convegno Ultimo miglio sostenibile Milano Bike Festival,"Milano",45.507104,9.211756,"Roma",Exact,US Census
+15,Incontro sulla mobilità ciclistica e pedonale nell’area fiorentina,"Firenze",43.769834,11.255607,"Roma",Exact,US Census
+16,Workshop di confronto sulla ciclabilità in Italia e in Olanda con rappresentati di alcune città italiane,"Amsterdam",52.377541,4.908123,"Roma",Exact,US Census
+17,"Analisi di geomarketing - ricerca sull'utilizzo e l'implementazione dei sistemi di mappatura","Venezia",45.434617,12.340423,"Roma",Exact,US Census
+18,"Workshop Bike (Friday) for Future - Napoli Bike Festival","Napoli",40.852520,14.250360,"Roma",Exact,US Census
+19,"Ricerca su nuovi strumenti per l'accessibilità pedonale e ciclabile (ba.bi.plan)","Venezia",45.487587,12.234246,"Roma",Exact,US Census
+20,"Consulenza PUC - Piano urbanistico comunale","Torre del Greco (NA)",40.786836,14.365700,"Roma",Exact,US Census
+21"Consulenza VAS - valutazione ambientale strategica","Palomonte (SA)",40.660331,15.291832,"Roma",Exact,US Census
